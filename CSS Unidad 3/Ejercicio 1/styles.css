@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    background-color: rgb(136, 134, 134);
+}
+
+h2{
+    background-color: rgb(202, 202, 202);
+    font-style: italic;
+}
+
+h3{
+    font-size: 15px;
+}
+
+.rojo{
+    color: red;
+}
+
+.amarillo{
+    color: rgb(236, 184, 12);
+}
+
+.azul{
+    color: blue;
+}
+
+li:first-child{
+    font-weight: bold;
+}
